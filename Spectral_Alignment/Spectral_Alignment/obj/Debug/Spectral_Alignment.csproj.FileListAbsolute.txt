@@ -1,0 +1,24 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.pdb
+C:\Users\Gigabyte\Desktop\Spectral Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.exe.config
+C:\Users\Gigabyte\Desktop\Spectral Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.exe
+C:\Users\Gigabyte\Desktop\Spectral Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.pdb
+C:\Users\Gigabyte\Desktop\Spectral Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Spectral Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.exe
+C:\Users\Gigabyte\Desktop\Spectral Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.pdb
+C:\Users\Test\Downloads\BioInformatics-master\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.exe.config
+C:\Users\Test\Downloads\BioInformatics-master\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.exe
+C:\Users\Test\Downloads\BioInformatics-master\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.pdb
+C:\Users\Test\Downloads\BioInformatics-master\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.csprojResolveAssemblyReference.cache
+C:\Users\Test\Downloads\BioInformatics-master\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.exe
+C:\Users\Test\Downloads\BioInformatics-master\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.pdb
+C:\Users\Test\Downloads\BioInformatics\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.exe.config
+C:\Users\Test\Downloads\BioInformatics\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.exe
+C:\Users\Test\Downloads\BioInformatics\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.pdb
+C:\Users\Test\Downloads\BioInformatics\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.csproj.CoreCompileInputs.cache
+C:\Users\Test\Downloads\BioInformatics\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.exe
+C:\Users\Test\Downloads\BioInformatics\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.pdb

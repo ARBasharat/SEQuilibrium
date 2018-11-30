@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\bin\Release\RunMe.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\bin\Release\RunMe.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\bin\Release\RunMe.application
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\bin\Release\RunMe.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\bin\Release\RunMe.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\bin\Release\Spectral_Alignment.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\bin\Release\Spectral_Alignment.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\obj\Release\RunMe.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\obj\Release\RunMe.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\obj\Release\RunMe.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\obj\Release\RunMe.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\obj\Release\RunMe.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\obj\Release\RunMe.application
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\obj\Release\RunMe.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\RunMe\obj\Release\RunMe.pdb

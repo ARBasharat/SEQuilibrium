@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\bin\Release\Spectral_Alignment.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\bin\Release\Spectral_Alignment.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\bin\Release\Spectral_Alignment.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\obj\Release\Spectral_Alignment.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Spectral_Alignment\Spectral_Alignment\obj\Release\Spectral_Alignment.pdb

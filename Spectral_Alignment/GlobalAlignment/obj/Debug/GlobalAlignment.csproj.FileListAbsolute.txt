@@ -1,0 +1,11 @@
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\bin\Debug\GlobalAlignment.exe.config
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\bin\Debug\GlobalAlignment.exe
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\bin\Debug\GlobalAlignment.pdb
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.csprojAssemblyReference.cache
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.csproj.CoreCompileInputs.cache
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.exe
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.pdb
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\bin\Debug\Spectral_Alignment.exe
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\bin\Debug\Spectral_Alignment.pdb
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\bin\Debug\Spectral_Alignment.exe.config
+C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.csproj.CopyComplete
