@@ -16,3 +16,14 @@ C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignm
 C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\LocalAlignment\bin\Debug\Spectral_Alignment.pdb
 C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\LocalAlignment\bin\Debug\Spectral_Alignment.exe.config
 C:\Users\Test\Downloads\BioInformaticsProject\Spectral_Alignment\Spectral_Alignment\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.csproj.CopyComplete
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\LocalAlignment.exe.config
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\LocalAlignment.exe
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\LocalAlignment.pdb
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\Spectral_Alignment.exe
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\Spectral_Alignment.pdb
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\Spectral_Alignment.exe.config
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.csprojAssemblyReference.cache
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.csproj.CopyComplete
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.exe
+C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.pdb

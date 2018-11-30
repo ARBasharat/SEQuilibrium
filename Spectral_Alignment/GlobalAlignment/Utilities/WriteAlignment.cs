@@ -17,6 +17,8 @@ namespace GlobalAlignment.Utilities
             int gap = 0;
             int match = 0;
 
+            string sep = "";
+
             Console.WriteLine("Global Alignment Results \n");
 
             foreach (var align in alignments)
@@ -27,33 +29,47 @@ namespace GlobalAlignment.Utilities
                 Console.WriteLine("Mismatch: {0}", scores.mismatch);
                 Console.WriteLine("Gap: {0}", scores.gap);
                 Console.WriteLine("Similarity Score: " + simScore + "\n");
-                Console.WriteLine(align.Sequence1);
+
                 for (int i = 0; i<align.Sequence1.Length; i++)
                 {
                     if (align.Sequence1[i] == align.Sequence2[i])
                     {
                         if (align.Sequence1[i].Equals('_')) {
                             gap = gap + 2;
-                            Console.Write(" ");
+                            sep += " ";
                         }
                         else
                         {
-                            Console.Write("|");
+                            sep += "|";
                             match++;
                         }            
                     }
                     else if (align.Sequence1[i].Equals('_') || align.Sequence2[i].Equals('_'))
                     {
-                        Console.Write(" ");
+                        sep += " ";
                         gap++;
                     }
                     else
                     {
-                        Console.Write(" ");
+                        sep += " ";
                         mismatch++;
                     }
                 }
-                Console.WriteLine("\n" + align.Sequence2 + "\n");
+                for (int line = 0; line < align.Sequence1.Length; line+=100)
+                {
+                    if (line + 100 < align.Sequence1.Length)
+                    {
+                        Console.WriteLine(align.Sequence1.Substring(line, 100));
+                        Console.WriteLine(sep.Substring(line, 100));
+                        Console.WriteLine(align.Sequence2.Substring(line, 100) + "\n");
+                    }
+                    else
+                    {
+                        Console.WriteLine(align.Sequence1.Substring(line));
+                        Console.WriteLine(sep.Substring(line));
+                        Console.WriteLine(align.Sequence2.Substring(line) + "\n");
+                    }
+                }
                 Console.WriteLine("Identity: {0}/{1} ({2:F1}%)", match, maxlength, (match/(double)maxlength * 100));
                 Console.WriteLine("Gaps: {0}/{1} ({2:F1}%) \n\n", gap, maxlength, (gap / (double)maxlength * 100));
 
