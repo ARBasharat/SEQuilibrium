@@ -40,7 +40,7 @@ namespace Spectral_Alignment.Utilities
             var n = ExperimentalMassList.Count;
 
             string baseAbsoluteUri = Directory.GetCurrentDirectory();
-            string relativePath = @"\SpectralAlignmentResults.txt";
+            string relativePath = @"\Output\SpectralAlignmentResults.txt";
                        
             string path = Path.GetFullPath(baseAbsoluteUri + relativePath);
 

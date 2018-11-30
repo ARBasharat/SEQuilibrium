@@ -42,26 +42,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlobalAlignment.exe" size="9216">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlobalAlignment.exe" size="11776">
       <assemblyIdentity name="GlobalAlignment" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>63PJBD+QwlcfmI2uIdNPUf/+xvkvfuofsPNztfmDcYM=</dsig:DigestValue>
+        <dsig:DigestValue>cnaqiVJ4SkFV8e6qxDqhc9nXyfeqqDSuICl0wL4Ow0g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LocalAlignment.exe" size="10240">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LocalAlignment.exe" size="12288">
       <assemblyIdentity name="LocalAlignment" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lxUS9YJ1nkTA7JHDJ2mfZuMdA9fcRBsoH6LGiJtLcH8=</dsig:DigestValue>
+        <dsig:DigestValue>2AnGz30sO9XDSU2zQZ8WmocgeEvfwzNZwZklMuFeqhs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,7 +73,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>j5kaF2fYI+k8hv6+z5R8VLjKsEqPH2B8ZY2gg9NseVY=</dsig:DigestValue>
+        <dsig:DigestValue>42dbhITTuEVjef5Uqkj2Oqkp4/4W3oMPlpKUwlybnNM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,17 +85,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jQTWhkEyooNFARtqwYZQDFVnMsYvYhlGOzedRGSywg0=</dsig:DigestValue>
+        <dsig:DigestValue>WYY0L9+T9pjC8dgH7oO3ai+LMoz1c/9DDoE/rM2bAHc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="RunMe.exe.config" size="187">
+  <file name="RunMe.exe.config" size="182">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+      <dsig:DigestValue>PbQiHFOih9uz3RPvvsStiPKcsu3PE8/gyCn2QGUyyf4=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

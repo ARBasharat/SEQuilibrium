@@ -29,3 +29,10 @@ C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\Spectral_Alignm
 C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.csproj.CoreCompileInputs.cache
 C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.exe
 C:\Users\Rachel\Documents\GitHub\SEQuilibrium\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.pdb
+C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.exe.config
+C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.exe
+C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\Spectral_Alignment\bin\Debug\Spectral_Alignment.pdb
+C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.csprojAssemblyReference.cache
+C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.csproj.CoreCompileInputs.cache
+C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.exe
+C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\Spectral_Alignment\obj\Debug\Spectral_Alignment.pdb
