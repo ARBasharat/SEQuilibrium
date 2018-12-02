@@ -125,7 +125,7 @@ namespace Spectral_Alignment.Utilities
 					}
 					else if (File.Exists(path))
 					{
-						using(var tw = new StreamWriter(path, true))
+						using(var tw = new StreamWriter(path, false))
 						{
 							// Printing Results
 							foreach (var index in alignment)

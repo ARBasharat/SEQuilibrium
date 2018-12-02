@@ -91,7 +91,7 @@ namespace LocalAlignment.Utilities
             }
             else if (File.Exists(path))
             {
-                using (var tw = new StreamWriter(path, true))
+                using (var tw = new StreamWriter(path, false))
                 {
                     tw.WriteLine("Alignment " + ++count);
                     tw.WriteLine("Match: {0}", scores.match);
