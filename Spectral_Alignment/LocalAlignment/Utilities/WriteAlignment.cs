@@ -153,6 +153,8 @@ namespace LocalAlignment.Utilities
                     }
                 }
             }
+
+            sep = "";
             foreach (var align in alignments)
             {
                 int maxlength = Math.Max(align.Sequence1.Length, align.Sequence2.Length);

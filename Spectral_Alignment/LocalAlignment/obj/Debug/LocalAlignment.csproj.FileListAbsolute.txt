@@ -38,3 +38,14 @@ C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug
 C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.csproj.CopyComplete
 C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.exe
 C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.pdb
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\LocalAlignment.exe.config
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\LocalAlignment.exe
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\LocalAlignment.pdb
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\Spectral_Alignment.exe
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\Spectral_Alignment.pdb
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\bin\Debug\Spectral_Alignment.exe.config
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.csprojAssemblyReference.cache
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.csproj.CoreCompileInputs.cache
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.csproj.CopyComplete
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.exe
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\LocalAlignment\obj\Debug\LocalAlignment.pdb

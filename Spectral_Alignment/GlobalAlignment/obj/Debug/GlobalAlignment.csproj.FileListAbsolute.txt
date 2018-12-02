@@ -31,3 +31,14 @@ C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\GlobalAlignment\obj\Debu
 C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.csproj.CopyComplete
 C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.exe
 C:\Users\Test\Downloads\SEQuilibrium\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.pdb
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\bin\Debug\GlobalAlignment.exe.config
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\bin\Debug\GlobalAlignment.exe
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\bin\Debug\GlobalAlignment.pdb
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\bin\Debug\Spectral_Alignment.exe
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\bin\Debug\Spectral_Alignment.pdb
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\bin\Debug\Spectral_Alignment.exe.config
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.csprojAssemblyReference.cache
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.csproj.CoreCompileInputs.cache
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.csproj.CopyComplete
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.exe
+C:\Users\rache\OneDrive\Documents\GitHub\SEQuilibrium\Spectral_Alignment\GlobalAlignment\obj\Debug\GlobalAlignment.pdb
